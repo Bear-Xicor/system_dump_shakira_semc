@@ -1,7 +1,0 @@
-git init
-mkdir foo
-touch foo/dummy_empty_file
-
-git add foo
-git add foo/dummy_empty_file
-git commit -m "adding files"
